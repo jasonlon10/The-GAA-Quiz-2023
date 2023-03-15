@@ -27,3 +27,19 @@
   .quiz-answer-input {
     margin-right: 10px;
   }
+ /* Quiz submit button */
+ .quiz-submit-button {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 1.2rem;
+    cursor: pointer;
+  }
+  
+  .quiz-submit-button:hover {
+    background-color: #3e8e41;
+  }
