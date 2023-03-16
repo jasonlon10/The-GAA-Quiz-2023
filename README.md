@@ -1,4 +1,4 @@
-<h1>The GAA QUiz 2023</h1>
+<h1>The GAA Quiz 2023</h1>
 <h2> Overview </h2>
 <p>
 The GAA Quiz 2023 tests users on their knowledge of GAA topics. The users is provided with four multiple choice questions and asked to submit their answers. Once submitted, their tally of correct and incorrect answers is then displayed along with a confirmation message on their results. 
